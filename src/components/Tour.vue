@@ -1,6 +1,6 @@
 <template lang="html">
 <div class="tour-box">
-  <img class="tour-box__img" :src=imgUrl  alt="">
+  <img class="tour-box__img" :src=imgUrl alt="">
   <p class="tour-box__dest">{{ destination }}</p>
   <p class="tour-box__date">{{ date }}</p>
   <p class="tour-box__descr">{{ description }}</p>

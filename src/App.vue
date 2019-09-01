@@ -26,6 +26,7 @@ export default {
   display: flex;
   flex-direction: column;
   align-items: center;
+  font-family: 'Quicksand', Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-align: center;

@@ -43,6 +43,10 @@ export default {
         padding: 0;
         color: #ff757c;
         font-size: 22px;
+        &__item:hover {
+            color: #15bdb1;
+            text-decoration: underline;
+        }
     }
 }
 </style>
